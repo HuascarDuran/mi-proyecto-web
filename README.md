@@ -1,5 +1,6 @@
  Mi Proyecto Web
 
+# mi-proyecto-web
 ## Descripción
 
 Este proyecto es un backend desarrollado en Node.js usando Express y MongoDB (a través de Mongoose). Implementa operaciones CRUD para las colecciones de **Usuarios** y **Productos**, además de endpoints adicionales para contar registros y operaciones realizadas en el sistema.
@@ -22,4 +23,5 @@ npm install
 3. **Inicia el servidor:**
 
 node app.js
+El servidor se iniciará en http://localhost:3000 y en la consola se mostrará un mensaje indicando que el servidor está corriendo y que se ha conectado a MongoDB.
 El servidor se iniciará en http://localhost:3000 y en la consola se mostrará un mensaje indicando que el servidor está corriendo y que se ha conectado a MongoDB.
